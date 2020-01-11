@@ -21,7 +21,9 @@ date:   2020-01-03 22:00:00 +0100
 
 We are four students in last year of Polytech' Nice-Sophia specialized in Software Architecture :
 
-* .... &lt;xxx@gmail.com&gt;
+* Jérémi Ferré &lt;jeremi.ferre@etu.unice.fr&gt;
+* Dorian Henault &lt;dorian.henault@etu.unice.fr&gt;
+* Florian Juroszek &lt;florian.juroszek@etu.unice.fr&gt;
 
 ## I. Research context /Project
 
